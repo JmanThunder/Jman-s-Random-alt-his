@@ -1,0 +1,6 @@
+name = "(V2me): Haiti Mod"
+path = "mod/[V2me] Haiti Mod"
+user_dir = "[V2me] Haiti Mod"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
